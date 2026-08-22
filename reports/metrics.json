@@ -1,0 +1,6 @@
+{
+  "model_name": "LightGBM_RUL_Estimator",
+  "R2_Score": 0.7648,
+  "RMSE_Cycles": 38.48,
+  "MAE_Cycles": 27.4
+}
