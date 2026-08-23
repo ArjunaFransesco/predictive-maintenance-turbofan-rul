@@ -161,4 +161,6 @@ jupyter notebook notebooks/turbofan_rul_predictive_maintenance.ipynb
 ## 👤 Author & Portfolio
 - **Author**: **[Arjuna Fransesco](https://github.com/ArjunaFransesco)**
 - **GitHub Repositories**: [https://github.com/ArjunaFransesco?tab=repositories](https://github.com/ArjunaFransesco?tab=repositories)
-- **Portfolio Website**: [https://github.com/ArjunaFransesco/arjuna-portfolio](https://github.com/ArjunaFransesco/arjuna-portfolio)
+- **Portfolio Website**: [https://arjunafransesco.github.io/arjuna-portfolio/](https://arjunafransesco.github.io/arjuna-portfolio/)
+- **LinkedIn**: [https://www.linkedin.com/in/arjunafransesco](https://www.linkedin.com/in/arjunafransesco)
+
