@@ -166,4 +166,4 @@ jupyter notebook notebooks/turbofan_rul_predictive_maintenance.ipynb
 
 
 
-<!-- Last Maintenance Audit: 2026-09-30 -->
+<!-- Last Maintenance Audit: 2026-10-01 -->
